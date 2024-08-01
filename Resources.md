@@ -28,10 +28,15 @@
 [Introduction to LangChain Chat with Your Data](https://learn.deeplearning.ai/courses/langchain-chat-with-your-data/lesson/1/introduction)
 
 ### Other Resources
+
 [Why Prompt Engineer is Enough to Solve Most of Your Problems](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
 [Youssef Hosni's Resources](https://youssefhosni.gumroad.com/l/qigmtg)
+
 [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch)
+
 [Nano LLaMA](https://github.com/karpathy/nano-llama31)
+
 [NanoGPT](https://github.com/karpathy/nanoGPT)
 
 # Rough Estimate of Timeline
