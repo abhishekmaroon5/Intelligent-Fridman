@@ -1,7 +1,10 @@
 # 🤖 AI-Powered Knowledge Chatbot Inspired by Lex Fridman
 
 ## 🚀 Introduction:
-Unlock the wisdom of over 400 episodes of Lex Fridman's YouTube channel with our AI-powered chatbot. This innovative tool brings the insights of top minds directly to you, solving the challenge of sifting through thousands of hours of video content.
+Unlock the wisdom of over 400 episodes of Lex Fridman's YouTube channel with our AI-powered chatbot. 
+https://www.youtube.com/@lexfridman
+This chatbot is designed to engage in conversations about various topics, including AI, Machine Learning, Robotics
+This innovative tool brings the insights of top minds directly to you, solving the challenge of sifting through thousands of hours of video content.
 
 ## 💡 Concept:
 Our chatbot uses advanced language models fine-tuned on Lex Fridman's podcast transcripts. It delivers accurate, contextually relevant, and insightful responses to your questions.
