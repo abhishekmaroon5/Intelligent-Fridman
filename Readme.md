@@ -35,3 +35,5 @@ Our chatbot uses advanced language models fine-tuned on Lex Fridman's podcast tr
 
 ## 🌟 Conclusion:
 Our AI-powered chatbot, enriched with Lex Fridman's profound insights, transforms how users learn and engage with complex topics. It addresses the difficulty of watching thousands of hours of video by offering a streamlined, interactive learning experience. Join us in creating a smarter, more connected world.
+
+
