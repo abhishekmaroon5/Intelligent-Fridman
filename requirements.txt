@@ -1,0 +1,26 @@
+# Data Collection Requirements
+youtube-transcript-api==0.6.2
+pytube==15.0.0
+google-api-python-client==2.108.0
+pandas==2.1.4
+requests==2.31.0
+
+# Future requirements for tokenization and model fine-tuning
+transformers==4.36.2
+torch==2.1.2
+tokenizers==0.15.0
+datasets==2.16.1
+accelerate==0.25.0
+bitsandbytes==0.41.3
+peft==0.7.1
+
+# For the web interface
+streamlit==1.29.0
+fastapi==0.105.0
+uvicorn==0.25.0
+
+# Utilities
+tqdm==4.66.1
+numpy==1.24.4
+matplotlib==3.8.2
+seaborn==0.13.0 

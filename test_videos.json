@@ -1,0 +1,766 @@
+{
+  "channel_url": "https://www.youtube.com/@lexfridman",
+  "video_count": 2,
+  "videos": [
+    {
+      "id": "UCSHZKyawb77ixDdsGog4iWA",
+      "channel": "Lex Fridman",
+      "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Lex Fridman - Videos",
+      "availability": null,
+      "channel_follower_count": 4740000,
+      "description": "Lex Fridman Podcast and other videos.\n",
+      "tags": [
+        "podcast",
+        "lex podcast",
+        "mit",
+        "science",
+        "robotics",
+        "ai",
+        "agi",
+        "artificial intelligence",
+        "llm",
+        "gpt",
+        "politics",
+        "technology",
+        "lex fridman podcast",
+        "lex friedman",
+        "debate",
+        "interview",
+        "long",
+        "lex interview",
+        "lex debate",
+        "lecture"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 175,
+          "width": 1060,
+          "preference": -10,
+          "id": "0",
+          "resolution": "1060x175"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 188,
+          "width": 1138,
+          "preference": -10,
+          "id": "1",
+          "resolution": "1138x188"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 283,
+          "width": 1707,
+          "preference": -10,
+          "id": "2",
+          "resolution": "1707x283"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 351,
+          "width": 2120,
+          "preference": -10,
+          "id": "3",
+          "resolution": "2120x351"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 377,
+          "width": 2276,
+          "preference": -10,
+          "id": "4",
+          "resolution": "2276x377"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 424,
+          "width": 2560,
+          "preference": -10,
+          "id": "5",
+          "resolution": "2560x424"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=s0",
+          "id": "banner_uncropped",
+          "preference": -5
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ytc/AIdro_ljfMy9kUR1PH9VRf-XsTsPqFMgORC_zodOQVEAm4hx36lC=s900-c-k-c0x00ffffff-no-rj",
+          "height": 900,
+          "width": 900,
+          "id": "7",
+          "resolution": "900x900"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ytc/AIdro_ljfMy9kUR1PH9VRf-XsTsPqFMgORC_zodOQVEAm4hx36lC=s0",
+          "id": "avatar_uncropped",
+          "preference": 1
+        }
+      ],
+      "uploader_id": "@lexfridman",
+      "uploader_url": "https://www.youtube.com/@lexfridman",
+      "modified_date": null,
+      "view_count": null,
+      "playlist_count": null,
+      "uploader": "Lex Fridman",
+      "channel_url": "https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA",
+      "_type": "playlist",
+      "entries": [
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "HUkBz-cdB-k",
+          "url": "https://www.youtube.com/watch?v=HUkBz-cdB-k",
+          "title": "Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472",
+          "description": "Terence Tao is widely considered to be one of the greatest mathematicians in history. He won the Fields Medal and the Breakthrough Prize in Mathematics, and has contributed to a wide range...",
+          "duration": 11674.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/HUkBz-cdB-k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1cpYjjeKIqycG6n7FznWqXzawWA",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/HUkBz-cdB-k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCMDJkkye83APGo4ocHHE-sNT1CqA",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/HUkBz-cdB-k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_jYB9GIRkf3kFi4HIykhOyzYnVg",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/HUkBz-cdB-k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD47jMHXutJdjoXZiKtRusDhgXTdQ",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 492037,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "9V6tWC4CdFQ",
+          "url": "https://www.youtube.com/watch?v=9V6tWC4CdFQ",
+          "title": "Sundar Pichai: CEO of Google and Alphabet | Lex Fridman Podcast #471",
+          "description": "Sundar Pichai is CEO of Google and Alphabet.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman.com/sponsors/ep471-sb\nSee below for timestamps, transcript, and to give feedback,...",
+          "duration": 7925.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/9V6tWC4CdFQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDpAXrbHUi0n030RKg8a4YcAIROdw",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/9V6tWC4CdFQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDRZpy948ptHJCuCK6dPqRzOkYGtQ",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/9V6tWC4CdFQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALta4P5-2YkVO8cR3zwuIwM27K5w",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/9V6tWC4CdFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAY6yPWxTEVK-PKtPVrRR6vKem1Q",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 554114,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "cp1lprZUQcE",
+          "url": "https://www.youtube.com/watch?v=cp1lprZUQcE",
+          "title": "James Holland: World War II, Hitler, Churchill, Stalin & Biggest Battles | Lex Fridman Podcast #470",
+          "description": "James Holland is a historian specializing in World War II. He hosts a podcast called WW2 Pod: We Have Ways of Making You Talk.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman...",
+          "duration": 12276.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/cp1lprZUQcE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXZhR30z3W4aWiOcPUlwyJDfY3Xw",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/cp1lprZUQcE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDwRQoeYHTamrTCYhpNB4DYnHQezA",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/cp1lprZUQcE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGI80t10A50CMCwPt-NRsyMk5Tdg",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/cp1lprZUQcE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeXjWNpTxAwvvTq7C71mbUPu_Wgg",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 749448,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "4OyB3hFb2AA",
+          "url": "https://www.youtube.com/watch?v=4OyB3hFb2AA",
+          "title": "Oliver Anthony: Country Music, Blue-Collar America, Fame, Money, and Pain | Lex Fridman Podcast #469",
+          "description": "Oliver Anthony is singer-songwriter who first gained worldwide fame with his viral hit Rich Men North of Richmond. He became a voice for many who are voiceless, with many of his songs speaking...",
+          "duration": 8349.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/4OyB3hFb2AA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgtceuWLVp1BirFy83xUi7xxnOjg",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/4OyB3hFb2AA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBymxQBqwlEI_WfNCbdaeqTZg8w5Q",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/4OyB3hFb2AA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR4k_td12X_xZHQWpeox9Df9-GtQ",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/4OyB3hFb2AA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2xIzzJsVvCPdT5-Vz-DOZDYJn1A",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 163203,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "A6m4iJIw_84",
+          "url": "https://www.youtube.com/watch?v=A6m4iJIw_84",
+          "title": "Janna Levin: Black Holes, Wormholes, Aliens, Paradoxes & Extra Dimensions | Lex Fridman Podcast #468",
+          "description": "Janna Levin is a theoretical physicist and cosmologist specializing in black holes, cosmology of extra dimensions, topology of the universe, and gravitational waves.\nThank you for listening...",
+          "duration": 10851.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/A6m4iJIw_84/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDd7TO_EvXASwyaRFZPKZqpVjMOPA",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/A6m4iJIw_84/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMtXoRICqHv9n87HWPHikGBPdgJA",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/A6m4iJIw_84/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDolyE2fcGydBPwGPTRRIYH60dnFg",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/A6m4iJIw_84/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNroyjNHFlcOe2ET3fyjlhzYgkMw",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 609932,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "477qF6QNSvc",
+          "url": "https://www.youtube.com/watch?v=477qF6QNSvc",
+          "title": "Tim Sweeney: Fortnite, Unreal Engine, and the Future of Gaming | Lex Fridman Podcast #467",
+          "description": "Tim Sweeney is a legendary video game programmer, founder and CEO of Epic Games that created the Unreal Engine, Fortnite, Gears of War, Unreal Tournament, and many other groundbreaking and...",
+          "duration": 15919.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/477qF6QNSvc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBHouaQQOkjdnAcuS0d8PoJuJb35g",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/477qF6QNSvc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmDDM3-EkF5sT-y34IddMdPxkY_w",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/477qF6QNSvc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuBBpXVG9f-G0CB1KVjdrUmJ_gxQ",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/477qF6QNSvc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1F0pLd0rYyuvSH7PfkSw1Ii_Lhw",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 440998,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "3W5FWUN5w2Q",
+          "url": "https://www.youtube.com/watch?v=3W5FWUN5w2Q",
+          "title": "Jeffrey Wasserstrom: China, Xi Jinping, Trade War, Taiwan, Hong Kong, Mao | Lex Fridman Podcast #466",
+          "description": "Jeffrey Wasserstrom is a historian of modern China.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman.com/sponsors/ep466-sb\nSee below for timestamps, transcript, and to...",
+          "duration": 11041.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/3W5FWUN5w2Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1OJKSw7MbaVsCsgNhF41DriKlgg",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/3W5FWUN5w2Q/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBxzMeNm39lbU85fSbBRcKCLevV8Q",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/3W5FWUN5w2Q/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3vnP9Hc08Z0T84doBsx6TCrTnVA",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/3W5FWUN5w2Q/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsdUZvCpfYrh1u47Ind32QPiFlyA",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 483519,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "xJoT3bJyHuA",
+          "url": "https://www.youtube.com/watch?v=xJoT3bJyHuA",
+          "title": "Robert Rodriguez: Sin City, Desperado, El Mariachi, Alita, and Filmmaking | Lex Fridman Podcast #465",
+          "description": "Robert Rodriguez is a legendary filmmaker and creator of Sin City, El Mariachi, Desperado, Spy Kids, Machete, From Dusk Till Dawn, Alita: Battle Angel, The Faculty, and his newest venture Brass...",
+          "duration": 12543.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/xJoT3bJyHuA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCj-VBschRj0cDhqPzjqHDPEVaAIQ",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/xJoT3bJyHuA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMTurGGHvO-KD4HkXREollYWs2Aw",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/xJoT3bJyHuA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4SGvuDwZhYa9IzsMa9p1RzzoPdQ",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/xJoT3bJyHuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMCjdFLDWuqE9fumam5Dodq9YREA",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 740921,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "1V0bJfqEaa4",
+          "url": "https://www.youtube.com/watch?v=1V0bJfqEaa4",
+          "title": "Dave Smith: Israel, Hamas, Ukraine, Russia, Conspiracies & Antisemitism | Lex Fridman Podcast #464",
+          "description": "Dave Smith is a comedian, libertarian, political commentator, and the host of Part of the Problem podcast.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman.com/sponsors/ep464-...",
+          "duration": 11941.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/1V0bJfqEaa4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBThxIvqIX_Y6020sUvo9r0SRmBJg",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/1V0bJfqEaa4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmrryfAPvHHqE5bGhpq9FhSPYqkg",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/1V0bJfqEaa4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAa2hhyamcnyoXej-BXU0QOKUZgiA",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/1V0bJfqEaa4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOBvnZJYB-i5VUrTCQ-iHNMg7iyA",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 853029,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "_type": "url",
+          "ie_key": "Youtube",
+          "id": "HvI42TyE5Ww",
+          "url": "https://www.youtube.com/watch?v=HvI42TyE5Ww",
+          "title": "Douglas Murray: Putin, Zelenskyy, Trump, Israel, Netanyahu, Hamas & Gaza | Lex Fridman Podcast #463",
+          "description": "Douglas Murray is the author of On Democracies and Death Cults, The War on The West, and The Madness of Crowds.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman.com/sponsors/e...",
+          "duration": 11345.0,
+          "channel_id": null,
+          "channel": null,
+          "channel_url": null,
+          "uploader": null,
+          "uploader_id": null,
+          "uploader_url": null,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/HvI42TyE5Ww/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBu3Mop9XGUz-tjHbyEWfiyveGDaA",
+              "height": 94,
+              "width": 168
+            },
+            {
+              "url": "https://i.ytimg.com/vi/HvI42TyE5Ww/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDza7n6g5M2EUg9ThnKwFUFhXaZ6w",
+              "height": 110,
+              "width": 196
+            },
+            {
+              "url": "https://i.ytimg.com/vi/HvI42TyE5Ww/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwD9cdYyEUvzf3y2D32xtJ7lRgrA",
+              "height": 138,
+              "width": 246
+            },
+            {
+              "url": "https://i.ytimg.com/vi/HvI42TyE5Ww/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPC4XDs06YnT372KcniCCEBhLkfg",
+              "height": 188,
+              "width": 336
+            }
+          ],
+          "timestamp": null,
+          "release_timestamp": null,
+          "availability": null,
+          "view_count": 1069849,
+          "live_status": null,
+          "channel_is_verified": true,
+          "__x_forwarded_for_ip": null
+        }
+      ],
+      "extractor_key": "YoutubeTab",
+      "extractor": "youtube:tab",
+      "webpage_url": "https://www.youtube.com/@lexfridman/videos",
+      "__x_forwarded_for_ip": null,
+      "release_year": null,
+      "requested_entries": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "epoch": 1750391029
+    },
+    {
+      "id": "UCSHZKyawb77ixDdsGog4iWA",
+      "channel": "Lex Fridman",
+      "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+      "title": "Lex Fridman - Shorts",
+      "availability": null,
+      "channel_follower_count": 4740000,
+      "description": "Lex Fridman Podcast and other videos.\n",
+      "tags": [
+        "podcast",
+        "lex podcast",
+        "mit",
+        "science",
+        "robotics",
+        "ai",
+        "agi",
+        "artificial intelligence",
+        "llm",
+        "gpt",
+        "politics",
+        "technology",
+        "lex fridman podcast",
+        "lex friedman",
+        "debate",
+        "interview",
+        "long",
+        "lex interview",
+        "lex debate",
+        "lecture"
+      ],
+      "thumbnails": [
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 175,
+          "width": 1060,
+          "preference": -10,
+          "id": "0",
+          "resolution": "1060x175"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 188,
+          "width": 1138,
+          "preference": -10,
+          "id": "1",
+          "resolution": "1138x188"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 283,
+          "width": 1707,
+          "preference": -10,
+          "id": "2",
+          "resolution": "1707x283"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 351,
+          "width": 2120,
+          "preference": -10,
+          "id": "3",
+          "resolution": "2120x351"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 377,
+          "width": 2276,
+          "preference": -10,
+          "id": "4",
+          "resolution": "2276x377"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+          "height": 424,
+          "width": 2560,
+          "preference": -10,
+          "id": "5",
+          "resolution": "2560x424"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/l34x1vfV7vRKTcQeuDUSxDfiXcDgLNJxu0buJ5yrYYw4miKcyPkuVCwjB6tupjTGss3tKTTd6g=s0",
+          "id": "banner_uncropped",
+          "preference": -5
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ytc/AIdro_ljfMy9kUR1PH9VRf-XsTsPqFMgORC_zodOQVEAm4hx36lC=s900-c-k-c0x00ffffff-no-rj",
+          "height": 900,
+          "width": 900,
+          "id": "7",
+          "resolution": "900x900"
+        },
+        {
+          "url": "https://yt3.googleusercontent.com/ytc/AIdro_ljfMy9kUR1PH9VRf-XsTsPqFMgORC_zodOQVEAm4hx36lC=s0",
+          "id": "avatar_uncropped",
+          "preference": 1
+        }
+      ],
+      "uploader_id": "@lexfridman",
+      "uploader_url": "https://www.youtube.com/@lexfridman",
+      "modified_date": null,
+      "view_count": null,
+      "playlist_count": 5,
+      "uploader": "Lex Fridman",
+      "channel_url": "https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA",
+      "_type": "playlist",
+      "entries": [
+        {
+          "title": "Terence Tao on Grigori Perelman declining the Fields Medal",
+          "view_count": 16000,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/UN5qgBk6MwY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCMpL7jyw8nbq3B8VgKmN6bkSab3w",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "UN5qgBk6MwY",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/UN5qgBk6MwY",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Lex Fridman tests Google XR glasses",
+          "view_count": 82000,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/b268x2kzefY/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBEfzGfRXrZVW9xskM_emex8r-gPA",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "b268x2kzefY",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/b268x2kzefY",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Google CEO on Elon Musk, Tesla, and Waymo",
+          "view_count": 73000,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/ufI31PNM9u8/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLD1YyYxMXVKOS1LKMtMwTdIBanFNA",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "ufI31PNM9u8",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/ufI31PNM9u8",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "Lex Fridman tests Google Beam",
+          "view_count": 397000,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/sXPONXB8WCo/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLDKhiQUtMa21dQgdbrv-MREird66Q",
+              "height": 720,
+              "width": 405
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "sXPONXB8WCo",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/sXPONXB8WCo",
+          "__x_forwarded_for_ip": null
+        },
+        {
+          "title": "David Goggins and Lex Fridman pushup challenge in Las Vegas",
+          "view_count": 1200000,
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi_webp/IbEUbykf9zw/oar2.webp",
+              "height": 720,
+              "width": 720
+            }
+          ],
+          "ie_key": "Youtube",
+          "id": "IbEUbykf9zw",
+          "_type": "url",
+          "url": "https://www.youtube.com/shorts/IbEUbykf9zw",
+          "__x_forwarded_for_ip": null
+        }
+      ],
+      "extractor_key": "YoutubeTab",
+      "extractor": "youtube:tab",
+      "webpage_url": "https://www.youtube.com/@lexfridman/shorts",
+      "__x_forwarded_for_ip": null,
+      "release_year": null,
+      "epoch": 1750391029
+    }
+  ]
+}

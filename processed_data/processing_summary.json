@@ -1,0 +1,10 @@
+{
+  "model_name": "microsoft/DialoGPT-medium",
+  "total_transcripts": 1,
+  "total_conversations": 3445,
+  "train_examples": 3100,
+  "validation_examples": 345,
+  "max_length": 1024,
+  "vocab_size": 50257,
+  "processed_at": "2025-06-20T03:49:27.411575"
+}

@@ -1,0 +1,11 @@
+{
+  "model_name": "microsoft/DialoGPT-medium",
+  "training_loss": 4.105761517144238,
+  "training_duration": "0:20:30.474449",
+  "num_epochs": 5,
+  "num_gpus": 2,
+  "training_examples": 3100,
+  "validation_examples": 345,
+  "completed_at": "2025-06-20T04:32:48.471531",
+  "output_dir": "models/lex_chatbot"
+}
