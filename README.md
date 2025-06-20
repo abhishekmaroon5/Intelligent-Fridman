@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/PyTorch-2.0%2B-red" alt="PyTorch">
   <img src="https://img.shields.io/badge/Transformers-4.0%2B-orange" alt="Transformers">
   <img src="https://img.shields.io/badge/Streamlit-1.0%2B-green" alt="Streamlit">
+  <img src="https://img.shields.io/badge/HuggingFace-Hub-yellow" alt="HuggingFace">
 </p>
 
 ---
@@ -53,6 +54,91 @@ streamlit run web_app/lex_chatbot_app.py --server.port 8501 --server.address 0.0
 ```bash
 python test_model.py
 ```
+
+### **Option 3: Use from Hugging Face Hub** ⭐
+```python
+from transformers import AutoTokenizer, AutoModelForCausalLM
+import torch
+
+# Load the model directly from Hugging Face
+tokenizer = AutoTokenizer.from_pretrained("abhishekmaroon5/lex-fridman-chatbot")
+model = AutoModelForCausalLM.from_pretrained("abhishekmaroon5/lex-fridman-chatbot")
+
+# Chat with Lex
+def chat_with_lex(question):
+    prompt = f"Human: {question}\n\nLex:"
+    inputs = tokenizer.encode(prompt, return_tensors="pt")
+    
+    with torch.no_grad():
+        outputs = model.generate(
+            inputs,
+            max_length=inputs.shape[1] + 100,
+            temperature=0.8,
+            do_sample=True,
+            top_p=0.9,
+            pad_token_id=tokenizer.eos_token_id
+        )
+    
+    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return response.split("Lex:")[-1].strip()
+
+# Example usage
+response = chat_with_lex("What do you think about artificial intelligence?")
+print(response)
+```
+
+**🌐 Model available at:** https://huggingface.co/abhishekmaroon5/lex-fridman-chatbot
+
+---
+
+## 🤗 **Hugging Face Integration**
+
+### **Model Details**
+- **Model Name**: `abhishekmaroon5/lex-fridman-chatbot`
+- **Base Model**: microsoft/DialoGPT-medium
+- **Training**: 5 epochs, 3,100 examples
+- **Final Loss**: 4.1058
+- **License**: MIT
+
+### **Quick Start with Hugging Face**
+```python
+# Install required packages
+pip install transformers torch
+
+# Load and use the model
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+# Load model from Hugging Face Hub
+model_name = "abhishekmaroon5/lex-fridman-chatbot"
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name)
+
+# Generate a response
+question = "What is consciousness?"
+prompt = f"Human: {question}\n\nLex:"
+inputs = tokenizer.encode(prompt, return_tensors="pt")
+
+with torch.no_grad():
+    outputs = model.generate(
+        inputs,
+        max_length=inputs.shape[1] + 100,
+        temperature=0.8,
+        do_sample=True,
+        top_p=0.9,
+        pad_token_id=tokenizer.eos_token_id
+    )
+
+response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+lex_response = response.split("Lex:")[-1].strip()
+print(f"Lex: {lex_response}")
+```
+
+### **Interactive Demo on Hugging Face**
+Visit https://huggingface.co/abhishekmaroon5/lex-fridman-chatbot to:
+- 🎮 **Try the model** with interactive widgets
+- 📖 **Read the model card** with detailed information
+- 📥 **Download the model** for local use
+- 🔍 **Explore the code** and examples
 
 ---
 
@@ -107,11 +193,36 @@ Intelligent-Fridman/
 pip install -r requirements.txt
 ```
 
-### **3. Download Pre-trained Model** (Optional)
-```bash
-# The repository includes a trained model in models/lex_chatbot_simple/
-# No additional downloads needed for demo!
+### **3. Get the Pre-trained Model**
+
+#### **Option A: Use from Hugging Face Hub** (Recommended)
+```python
+# The model is available on Hugging Face Hub
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+# Load directly from Hugging Face
+tokenizer = AutoTokenizer.from_pretrained("abhishekmaroon5/lex-fridman-chatbot")
+model = AutoModelForCausalLM.from_pretrained("abhishekmaroon5/lex-fridman-chatbot")
 ```
+
+#### **Option B: Download Locally**
+```bash
+# Clone this repository (includes trained model)
+git clone <your-repo-url>
+cd Intelligent-Fridman
+
+# The trained model is in models/lex_chatbot/
+# No additional downloads needed!
+```
+
+#### **Option C: Download from Hugging Face**
+```bash
+# Download model files to local directory
+git lfs install
+git clone https://huggingface.co/abhishekmaroon5/lex-fridman-chatbot models/lex_chatbot_hf
+```
+
+**🌐 Model Hub Link:** https://huggingface.co/abhishekmaroon5/lex-fridman-chatbot
 
 ---
 
@@ -183,9 +294,11 @@ python scripts/sample_viewer.py
 
 ### **Performance Metrics**
 - **Model Size:** 354M parameters (DialoGPT-medium)
-- **Training Time:** ~2 minutes (2 epochs)
+- **Training Time:** ~20 minutes (5 epochs)
 - **Generation Speed:** 0.3-1.8 seconds per response
-- **Final Loss:** 3.54 (good convergence)
+- **Final Loss:** 4.1058 (good convergence)
+- **Training Examples:** 3,100 conversations
+- **Validation Examples:** 345 conversations
 - **Topics Covered:** 9 diverse conversation areas
 
 ---
@@ -235,7 +348,7 @@ docker run -p 8501:8501 lex-chatbot
 ## 🔮 **Future Enhancements**
 
 ### **Short Term**
-- [ ] Upload model to HuggingFace Hub
+- [x] Upload model to HuggingFace Hub ✅
 - [ ] Add more conversation examples
 - [ ] Improve response quality metrics
 - [ ] Add conversation export feature
