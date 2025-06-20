@@ -88,9 +88,9 @@ Intelligent-Fridman/
 │   ├── run_chatbot.sh        # Chatbot runner
 │   └── setup_dev.sh          # Dev environment setup
 ├── 📁 utils/                  # Project utilities
-│   ├── requirements.txt      # Dependencies
 │   ├── setup.py              # Package setup
 │   └── VERSION               # Version info
+├── requirements.txt           # Dependencies ✅
 ```
 
 ---
@@ -104,7 +104,7 @@ Intelligent-Fridman/
 
 ### **2. Install Dependencies**
 ```bash
-pip install -r utils/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### **3. Download Pre-trained Model** (Optional)
@@ -257,7 +257,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ```bash
 git clone <repo-url>
 cd Intelligent-Fridman
-pip install -r utils/requirements.txt
+pip install -r requirements.txt
 pre-commit install  # If you have pre-commit
 ```
 
