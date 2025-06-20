@@ -17,7 +17,7 @@ def upload_model_to_hf():
     
     # Configuration
     model_path = "models/lex_chatbot"
-    repo_name = "lex-fridman-chatbot"  # Change this to your desired repo name
+    repo_name = "abhishekmaroon5/lex-fridman-chatbot"  # Your HF username/repo
     organization = None  # Set to your organization name if uploading to org
     
     # Check if model exists
@@ -45,7 +45,7 @@ def upload_model_to_hf():
         api = HfApi()
         
         # Create repository
-        repo_id = f"{organization}/{repo_name}" if organization else repo_name
+        repo_id = repo_name  # Already includes username
         print(f"\n🔄 Creating repository: {repo_id}")
         
         try:

@@ -67,7 +67,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 class LexFridmanChatbot:
-    def __init__(self, model_path="models/lex_chatbot"):
+    def __init__(self, model_path="models/lex_chatbot_simple"):
         """Initialize the Lex Fridman chatbot."""
         self.model_path = model_path
         self.model = None
@@ -81,9 +81,14 @@ class LexFridmanChatbot:
         try:
             if os.path.exists(self.model_path):
                 self.tokenizer = AutoTokenizer.from_pretrained(self.model_path)
+                
+                # Add pad token if not present
+                if self.tokenizer.pad_token is None:
+                    self.tokenizer.pad_token = self.tokenizer.eos_token
+                
                 self.model = AutoModelForCausalLM.from_pretrained(
                     self.model_path,
-                    torch_dtype=torch.float16 if self.device == "cuda" else torch.float32,
+                    torch_dtype=torch.float32,  # Use float32 for stability
                     device_map="auto" if torch.cuda.device_count() > 1 else None
                 )
                 
