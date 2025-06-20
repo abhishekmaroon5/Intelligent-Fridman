@@ -79,9 +79,18 @@ Intelligent-Fridman/
 │   └── sample_viewer.py       # View dataset samples
 ├── 📁 web_app/                # Streamlit web interface
 │   └── lex_chatbot_app.py     # Web app ✅
-├── test_model.py              # CLI testing script ✅
-├── upload_to_huggingface.py   # HF upload script
-└── requirements.txt           # Dependencies
+├── 📁 tools/                  # Utility tools
+│   ├── test_model.py          # CLI testing script ✅
+│   ├── upload_to_huggingface.py # HF upload script
+│   └── monitor_training.py    # Training monitor
+├── 📁 deployment/             # Deployment scripts
+│   ├── run_demo.sh           # Quick demo launcher ✅
+│   ├── run_chatbot.sh        # Chatbot runner
+│   └── setup_dev.sh          # Dev environment setup
+├── 📁 utils/                  # Project utilities
+│   ├── requirements.txt      # Dependencies
+│   ├── setup.py              # Package setup
+│   └── VERSION               # Version info
 ```
 
 ---
@@ -95,7 +104,7 @@ Intelligent-Fridman/
 
 ### **2. Install Dependencies**
 ```bash
-pip install -r requirements.txt
+pip install -r utils/requirements.txt
 ```
 
 ### **3. Download Pre-trained Model** (Optional)
@@ -160,7 +169,7 @@ tensorboard --logdir=models/lex_chatbot_simple/runs
 
 ### **Command Line Testing**
 ```bash
-python test_model.py
+python tools/test_model.py
 # Choose from:
 # 1. Automated test questions
 # 2. Interactive chat mode  
@@ -248,7 +257,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ```bash
 git clone <repo-url>
 cd Intelligent-Fridman
-pip install -r requirements.txt
+pip install -r utils/requirements.txt
 pre-commit install  # If you have pre-commit
 ```
 

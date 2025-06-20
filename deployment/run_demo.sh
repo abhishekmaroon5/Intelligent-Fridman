@@ -19,9 +19,9 @@ python -c "import torch, transformers, streamlit" 2>/dev/null
 if [ $? -ne 0 ]; then
     echo "❌ Required packages not found."
     echo "💡 Installing dependencies..."
-    pip install -r requirements.txt
+    pip install -r utils/requirements.txt
     if [ $? -ne 0 ]; then
-        echo "❌ Failed to install dependencies. Please run: pip install -r requirements.txt"
+        echo "❌ Failed to install dependencies. Please run: pip install -r utils/requirements.txt"
         exit 1
     fi
 fi
@@ -58,7 +58,7 @@ case $choice in
         echo ""
         echo "💻 Launching Command Line Interface..."
         echo ""
-        python test_model.py
+        python tools/test_model.py
         ;;
     3)
         echo "👋 Goodbye!"
